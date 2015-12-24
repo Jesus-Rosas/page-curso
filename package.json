@@ -1,0 +1,25 @@
+{
+  "name": "curso-javascript",
+  "version": "1.0.0",
+  "description": "Pagina del curso de JavaScript ",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesus-Rosas/page-curso.git"
+  },
+  "author": "Jesus Rosas",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/Jesus-Rosas/page-curso/issues"
+  },
+  "homepage": "https://github.com/Jesus-Rosas/page-curso#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.1.1",
+    "gulp-uglify": "^1.5.1"
+  }
+}
